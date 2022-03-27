@@ -1,0 +1,10 @@
+**/__pycache__/
+.vscode/
+.virtualenv/
+.cache/
+.eggs/
+*.egg-info/
+sample.sqlite
+docs/_build
+app.key
+app.key.pub
